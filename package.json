@@ -1,10 +1,10 @@
 {
   "name": "js-smartcontract-ethereum",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "deployed-smartcontract",
   "main": "index.js",
   "scripts": {
-    "start" : "node deploy.js",
+    "start": "node deploy.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
