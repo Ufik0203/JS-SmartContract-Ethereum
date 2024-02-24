@@ -3,7 +3,7 @@ const solc = require('solc');
 const { Web3 } = require('web3');
 const HDWalletProvider = require('@truffle/hdwallet-provider');
 
-const privateKey = 'c6699eed9a0d33c68d25ac5d843c671aed43cf797395f7d28b53dcac6c8654d9'; // Ganti dengan kunci privat Anda
+const privateKey = '<CHANGE IT WITH YOUR PRIVATE KEY>'; // Ganti dengan kunci privat Anda
 const providerOrUrl = 'https://goerli.infura.io/v3/d135d94519b342329bff2a4e334306bf';
 
 const provider = new HDWalletProvider(privateKey, providerOrUrl);
