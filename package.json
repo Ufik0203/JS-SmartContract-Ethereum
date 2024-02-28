@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ufik0203/JS-SmartContract-Ethereum.git"
+    "url": "https://github.com/Ufik0203/JS-SmartContract-Ethereum"
   },
   "keywords": [
     "eth-smartcontract-deploy"
