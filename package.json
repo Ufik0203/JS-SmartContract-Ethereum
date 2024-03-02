@@ -1,6 +1,6 @@
 {
   "name": "js-smartcontract-ethereum",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "deployed-smartcontract",
   "main": "index.js",
   "scripts": {
